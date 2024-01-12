@@ -37,9 +37,6 @@
 [submodule "FreeRTOS-Plus/Source/Utilities/backoff_algorithm"]
 	path = FreeRTOS-Plus/Source/Utilities/backoff_algorithm
 	url = https://github.com/FreeRTOS/backoffAlgorithm.git
-[submodule "FreeRTOS-Plus/ThirdParty/wolfSSL"]
-	path = FreeRTOS-Plus/ThirdParty/wolfSSL
-	url = https://github.com/wolfSSL/wolfssl.git
 [submodule "FreeRTOS-Plus/ThirdParty/libslirp"]
 	path = FreeRTOS-Plus/ThirdParty/libslirp
 	url = https://gitlab.com/qemu-project/libslirp.git
@@ -85,3 +82,6 @@
 [submodule "FreeRTOS-Plus/Source/FreeRTOS-Plus-Trace"]
 	path = FreeRTOS-Plus/Source/FreeRTOS-Plus-Trace
 	url = https://github.com/percepio/TraceRecorderSource.git
+[submodule "FreeRTOS-Plus/ThirdParty/wolfSSL"]
+	path = FreeRTOS-Plus/ThirdParty/wolfSSL
+	url = https://github.com/wolfSSL/wolfssl.git
